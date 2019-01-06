@@ -1,0 +1,19 @@
+{
+    "name": "luang/design-patterns",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jmluang",
+            "email": "luangjm9601@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimpleFactory\\": "SimpleFactory/src/"
+        }
+    }
+}
