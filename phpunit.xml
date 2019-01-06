@@ -3,5 +3,8 @@
         <testsuite name="SimpleFactory">
             <directory>SimpleFactory/tests</directory>
         </testsuite>
+        <testsuite name="Strategy">
+            <directory>Strategy/tests</directory>
+        </testsuite>
     </testsuites>
 </phpunit>

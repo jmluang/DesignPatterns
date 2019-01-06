@@ -13,7 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "SimpleFactory\\": "SimpleFactory/src/"
+            "SimpleFactory\\": "SimpleFactory/src/",
+            "Strategy\\": "Strategy/src/"
         }
     }
 }
